@@ -21,4 +21,5 @@ Output:
 
 ## System GUI
 
-![Main Window](https://github.com/neumotngayem/Smart-Irrigation-using-Fuzzy-Logic/blob/master/Capture.PNG?raw=true)
+![Main Window](https://github.com/neumotngayem/Smart-Irrigation-using-Fuzzy-Logic/blob/master/MainWindow.PNG?raw=true)
+![Result Window](https://github.com/neumotngayem/Smart-Irrigation-using-Fuzzy-Logic/blob/master/ResultWindow.PNG?raw=true)
