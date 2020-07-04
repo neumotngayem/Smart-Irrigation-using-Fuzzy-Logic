@@ -18,3 +18,7 @@ Output:
  This system is coded by Python and using PyQT5 for GUI.
  
  Run file mainWindow.py to start the system.
+
+## System GUI
+
+![Main Window](https://www.flickr.com/gp/189172899@N02/YC9G5F)
